@@ -1,0 +1,14 @@
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\bin\Debug\net8.0\..exe
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\bin\Debug\net8.0\..deps.json
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\bin\Debug\net8.0\..runtimeconfig.json
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\bin\Debug\net8.0\..dll
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\bin\Debug\net8.0\..pdb
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..AssemblyInfoInputs.cache
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..AssemblyInfo.cs
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..csproj.CoreCompileInputs.cache
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..dll
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\refint\..dll
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..pdb
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\..genruntimeconfig.cache
+C:\Users\D.Fischer\PycharmProjects\iteration\c#\obj\Debug\net8.0\ref\..dll
