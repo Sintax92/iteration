@@ -79,13 +79,11 @@ for item_a in items3:
             result7.append((item_a, item_b))
 print(result7)
 
-
 for i in range(len(items3)):
     for j in range(i + 1, len(items3)):
         result7.append((items3[i], items3[j]))
 
 result72 = [(items3[i], items3[j]) for i in range(len(items3)) for j in range(i + 1, len(items3))]
-
 
 assert result7 == expected_result
 # endregion
@@ -140,8 +138,8 @@ for i in items5:
         for k in items5:
             permutations.append((i, j, k))
 
-
-permutations2 = [(i,j,k) for i in items5 for j in items5 for k in items5]
+permutations2 = [(i, j, k) for i in items5 for j in items5 for k in items5]
 
 from itertools import product
+
 permutations3 = list(product(items5, repeat=3))
